@@ -25,8 +25,8 @@ pip install -r requirements.txt
 ```commandline
 python main.py YOUR_URL
 ```
-Замените YOUR_URL на ссылку для получение bitly ссылки.  
-Замените YOUR_URL на bitly ссылку, без указания протокола(HTTP, HTTPS), для получения колличества переходов по ней.
+Замените `YOUR_URL` на ссылку для получение bitly ссылки.  
+Замените `YOUR_URL` на bitly ссылку, без указания протокола(HTTP, HTTPS), для получения колличества переходов по ней.
 ## Помощь
 ```commandline
  python main.py --help
